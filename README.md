@@ -10,9 +10,4 @@ ShadowC2 is a lightweight, encrypted Command & Control (C2) framework written in
 - 🧩 Modular design (easy to expand)
 - 📜 Logging per session
 
-## Installation
 
-```bash
-git clone https://github.com/jouwgebruikersnaam/shadowc2.git
-cd shadowc2
-pip install -r requirements.txt
